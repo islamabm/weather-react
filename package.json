@@ -1,5 +1,6 @@
 {
-  "name": "robots-react-inclass",
+  "name": "weather-app",
+  "homepage": "https://islamabm.github.io/weather-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
